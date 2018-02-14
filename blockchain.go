@@ -1,4 +1,4 @@
-qqqqqqpackage main
+package main
 
 type BlockChain struct {
   blocks []*Block
